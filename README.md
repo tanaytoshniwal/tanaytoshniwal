@@ -12,12 +12,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 # Skills
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" />
-<img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" />
-<img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" />
-<img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
-<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
-<img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
 
 <!-- * C/C++
 * Java SE
@@ -25,10 +20,10 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 * JavaScript (ES6)
 * TypeScript -->
 
-<!-- ## Frameworks -->
+## Frameworks:
 
 <details>
-    <summary><h2 style="display: inline-block;">Frameworks:</h2></summary>
+    <summary>view list...</summary>
     <ul>
         <li>MEAN</li>
         <li>MERN</li>
@@ -43,8 +38,10 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
     </ul>
 </details>
 
+## Database:
+
 <details>
-    <summary><h2 style="display: inline-block;">Database:</h2></summary>
+    <summary>view list...</summary>
     <ul>
         <li>MongoDB</li>
         <li>MySQL</li>
