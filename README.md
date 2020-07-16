@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://tanaytoshniwal.me/assets/images/tanay-head.png" width="250px">
+    <img src="https://tanaytoshniwal.me/assets/images/tanay-head.png" width="200px" alt="tanay toshniwal" />
 </p>
 
 # About Me
@@ -11,34 +11,54 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 # Skills
 ## Programming Languages:
-* C/C++
+
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" />
+<img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" />
+<img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" />
+<img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
+<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
+<img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
+
+<!-- * C/C++
 * Java SE
 * Python 3
 * JavaScript (ES6)
-* TypeScript
+* TypeScript -->
 
-## Frameworks
-* MEAN
-* MERN
-* Angular
-* React
-* React Native
-* Redux
-* Node.js
-* Ionic 3 & 4
-* Mongo DB
-* Android
+<!-- ## Frameworks -->
 
-## Database:
-* MongoDB
-* MySQL
+<details>
+    <summary><h2 style="display: inline-block;">Frameworks:</h2></summary>
+    <ul>
+        <li>MEAN</li>
+        <li>MERN</li>
+        <li>Angular</li>
+        <li>React</li>
+        <li>React Native</li>
+        <li>Redux</li>
+        <li>Node.js</li>
+        <li>Ionic 3 & 4</li>
+        <li>Mongo DB</li>
+        <li>Android</li>
+    </ul>
+</details>
+
+<details>
+    <summary><h2 style="display: inline-block;">Database:</h2></summary>
+    <ul>
+        <li>MongoDB</li>
+        <li>MySQL</li>
+    </ul>
+</details>
 
 # Want to know more?
 
-My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me)
+<!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
 
-My Blogs: [https://tanaytoshniwal.com](https://tanaytoshniwal.com) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.com) 
 
-My CV: [Download my Resume](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
+[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
 
-Email me: [tanaytoshniwal98@gmail.me](mailto:tanaytoshniwal98@gmail.me) 
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
