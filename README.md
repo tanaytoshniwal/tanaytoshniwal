@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://tanaytoshniwal.me/assets/images/tanay-head.png" width="200px" alt="tanay toshniwal" />
+    <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="tanay toshniwal" />
 </p>
 
 # About Me
