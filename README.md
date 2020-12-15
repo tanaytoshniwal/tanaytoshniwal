@@ -23,7 +23,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 * JavaScript (ES6)
 * TypeScript -->
 
-## Frameworks:
+## Frameworks & Tools:
 
 <details>
     <summary>view list...</summary>
@@ -36,7 +36,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
         <li>Redux</li>
         <li>Node.js</li>
         <li>Ionic 3 & 4</li>
-        <li>Mongo DB</li>
+        <li>Firebase</li>
         <li>Android</li>
     </ul>
 </details>
@@ -57,10 +57,10 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://blogs.tanaytoshniwal.me) 
 
 [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
 
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:contact@tanaytoshniwal.me) 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
