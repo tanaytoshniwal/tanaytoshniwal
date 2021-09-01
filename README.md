@@ -8,9 +8,9 @@
 # About Me
 Hi folks :wave: 
 
-I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
+I'm Tanay Toshniwal, a Developer by Profession and a Musician by Passion!
 
-I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
+I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies.
 
 # Skills
 ## Programming Languages:
@@ -57,7 +57,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me/-brightgreen" />](https://tanaytoshniwal.me) 
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Fblogs.tanaytoshniwal.me/-red" />](https://blogs.tanaytoshniwal.me) 
+[<img alt="blogs link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Fmysticalcoder.com/-red" />](https://mysticalcoder.com/) 
 
 [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
 
