@@ -18,7 +18,6 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 
 # Frameworks and Libraries:
 
-<img src="" />
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
