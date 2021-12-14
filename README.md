@@ -1,16 +1,15 @@
 <p align="center">
     <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="tanay toshniwal" />
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
-</p>
 
 # About Me
 Hi folks :wave: 
 
 I'm Tanay Toshniwal, a Developer by Profession and a Musician by Passion!
 
-I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies.
+After office hours, you can find me playing my instruments :guitar: :notes:, or cubing <img src="https://www.pngall.com/wp-content/uploads/2016/04/Rubiks-Cube-PNG-Clipart-180x180.png" height="20" />. If not, I'm probably out on a bike ride :motorcycle:.
+
+<img align="right" alt="GIF" src="./assets/developer.png" width="360" height="auto" />
 
 # Skills
 ## Programming Languages:
@@ -51,6 +50,9 @@ I did my Bachelor's in Computer Science & Engineering from SRM Institute of Scie
     </ul>
 </details>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
+</p>
 # Want to know more?
 
 <!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
