@@ -47,13 +47,13 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/tanaytoshniwal) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TanayToshniwal) [<img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://www.youtube.com/c/TanayToshniwal)
 
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me/-brightgreen" />](https://tanaytoshniwal.me)
+[<img alt="portfolio link" src="https://img.shields.io/badge/Portfolio-https://tanaytoshniwal.me/-success" />](https://tanaytoshniwal.me)
 
-[<img alt="blogs link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Fmysticalcoder.com/-red" />](https://mysticalcoder.com/)
+[<img alt="blogs link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Fmysticalcoder.com/-blueviolet" />](https://mysticalcoder.com/)
 
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
+[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-lightgrey" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
 
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-contact%40tanaytoshniwal.me-orange" />](mailto:contact@tanaytoshniwal.me)
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-contact%40tanaytoshniwal.me-blue" />](mailto:contact@tanaytoshniwal.me)
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
 
