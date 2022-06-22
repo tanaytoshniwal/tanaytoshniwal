@@ -6,7 +6,7 @@
 
 Hi folks :wave:
 
-I'm Tanay Toshniwal, a Developer by Profession and a Musician by Passion!
+I'm Tanay Toshniwal, a Developer by Profession and a Musician by Passion, with heart of a Biker!
 
 After office hours, you can find me playing my instruments :guitar: :notes:, or cubing <img src="./assets/cube.png" height="20" />. If not, I'm probably out on a bike ride :motorcycle:.
 
