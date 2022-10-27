@@ -49,9 +49,9 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 
 [<img alt="portfolio link" src="https://img.shields.io/badge/Portfolio-https://tanaytoshniwal.me/-success" />](https://tanaytoshniwal.me)
 
-[<img alt="blogs link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Fmysticalcoder.com/-blueviolet" />](https://mysticalcoder.com/)
+<!-- [<img alt="blogs link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Fmysticalcoder.com/-blueviolet" />](https://mysticalcoder.com/) -->
 
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-lightgrey" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
+<!-- [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-lightgrey" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf) -->
 
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-contact%40tanaytoshniwal.me-blue" />](mailto:contact@tanaytoshniwal.me)
 
