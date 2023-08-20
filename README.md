@@ -61,5 +61,8 @@ I have a <strong>Youtube Channel</strong> too, do check it out! :wink:
 
 <p align="center"> Made with :heart: by Tanay Toshniwal. </p>
 <p align="center">
-<a href="https://www.tanaytoshniwal.me">https://www.tanaytoshniwal.me</a>
+<a href="https://crazykalakaar.com">https://crazykalakaar.com</a>
+</p>
+<p align="center">
+<a href="https://portfolio.crazykalakaar.com">https://portfolio.crazykalakaar.com</a>
 </p>
